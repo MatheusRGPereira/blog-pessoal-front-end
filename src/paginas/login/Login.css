@@ -1,0 +1,16 @@
+.textos1{
+font-weight: bold !important;
+}
+
+.imagem{
+    background-image:url(https://media.istockphoto.com/vectors/futuristic-gray-technology-background-for-science-and-technology-vector-id1194458591);
+    background-repeat:'no-repeat';
+     width:100vh;
+     min-height:100vh; 
+      background-Size:cover;
+      background-Position: center;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
